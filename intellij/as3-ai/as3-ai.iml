@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="as3-ai">
     <configurations>
-      <configuration name="as3-ai" pure-as="true" output-file="as3-ai.swf" output-folder="$MODULE_DIR$/out/production/as3-ai">
+      <configuration name="as3-ai" pure-as="true" output-type="Library" output-file="as3-ai.swc" output-folder="$MODULE_DIR$/../../out">
         <dependencies target-player="11.6">
           <entries>
             <entry library-id="3c30a0b5-e654-49b1-bf7a-7e15acceda27">
